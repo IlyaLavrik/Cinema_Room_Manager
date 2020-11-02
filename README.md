@@ -1,1 +1,3 @@
 # Cinema_Room_Manager
+This is my very first job!
+Don't judge strictly...
